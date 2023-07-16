@@ -1,0 +1,8 @@
+a = 10
+b = 25
+print(a)
+print(bin(a))
+a<<b
+print("a<<b: ", a,b)
+a>>b
+print("a>>b: ", a,b)
